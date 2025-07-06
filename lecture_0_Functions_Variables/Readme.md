@@ -1,7 +1,6 @@
-<h1>💰 Simple Interest Calculator</h1>
-<p align="center">
-  <i>Project for CS50P Lecture 0: Functions and Variables</i>
-</p>
+<h2>📌 Lecture: CS50P - Lecture 1 (Functions and Variables)</h2>
+<h2>💡 Project: SimpleIintrest Calculator</h2>
+<hr/>>
 
 
 <p>
