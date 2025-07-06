@@ -17,15 +17,15 @@ def calculator(num_1, num_2):
         elif choice == '%':
             print(f'Modulus: {num_1 % num_2}')
         else:
-            print('❌ INVALID CHOICE')
+            print('INVALID CHOICE')
 
     except ZeroDivisionError:
-        print("⚠️ Cannot divide by zero.")
+        print("Cannot divide by zero.")
 
 
 # Main function that gets user input and calls calculator
 def main():
-    print("🧮 Welcome to Waasif's Calculator")
+    print("Welcome to Waasif's Calculator")
 
     try:
         num_1 = float(input("Enter num_1: "))
@@ -33,7 +33,7 @@ def main():
         calculator(num_1, num_2)
 
     except ValueError:
-        print("⚠️ Enter a valid number, please.")
+        print("Enter a valid number, please.")
 
 
 # Entry point
