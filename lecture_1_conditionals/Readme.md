@@ -1,8 +1,6 @@
-<h1 align="center">🧮 BMI Calculator</h1>
-
-<p align="center">
-  <i>Project for CS50P Lecture 1: Conditionals</i>
-</p>
+<h2>📌 Lecture: CS50P - Lecture 1 (conditionals)</h2>
+<h2>💡 Project: BMI calculator with category </h2>
+<hr/>
 
 <h2>📜 Description</h2>
 <p>This project calculates a person's Body Mass Index (BMI) using their weight and height. It categorizes the BMI using conditional logic into Underweight, Normal, Overweight, or Obese.</p>

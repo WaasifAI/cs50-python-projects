@@ -1,4 +1,7 @@
-<h1>💰 Simple Interest Calculator</h1>
+<h2>📌 Lecture: CS50P - Lecture 1 (Functions and Variables)</h2>
+<h2>💡 Project: SimpleIintrest Calculator</h2>
+<hr/>>
+
 
 <p>
   This is a beginner-friendly Python project that calculates <strong>Simple Interest</strong> based on user input.<br>
