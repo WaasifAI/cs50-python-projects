@@ -1,5 +1,5 @@
 <h2>📘 CS50P Lecture 3: Exceptions</h2>
-<h1>🔢 Project: Robust Command-Line Calculator</h1>
+<h1>🔢 Project: Calculator</h1>
 <hr />
 
 <h3>📜 Description</h3>
